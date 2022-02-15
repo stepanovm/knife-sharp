@@ -3,3 +3,4 @@
 /composer.lock
 /.env
 /composer.phar
+/web/.htaccess
